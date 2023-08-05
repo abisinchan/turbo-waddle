@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS album_db;
+CREATE DATABASE album_db;
